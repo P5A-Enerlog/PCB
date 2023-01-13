@@ -1,0 +1,77 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=global
+*Date=15:25:27
+*CreatedBy=Fritzing 0.9.6b..
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;35.6853;-8.06685;-90;Bottom;Pyranometer part2
+2;10k;1206 [SMD];68.7314;-38.5468;180;Top;10kΩ
+3;;;66.4341;-14.9215;0;Bottom;Via31
+4;;;3.68127;-45.4049;0;Bottom;Hole3
+5;;;54.9687;-35.4988;90;Bottom;DHT4
+6;;;16.6635;-45.1414;0;Bottom;TXT3
+7;;;99.4392;-44.6429;0;Bottom;Hole4
+8;;THT;79.6273;-17.9728;90;Bottom;Thermocouple 2
+9;5u;;24.7633;-39.5628;-90;Bottom;M1
+10;;SOT-23 [SMD];25.0833;-30.9428;180;Top;Q1
+11;;;33.1995;-10.411;0;Bottom;TXT4
+12;;;71.4017;-14.8945;180;Bottom;MH-ET LIVE ESP32 DEVKIT1
+13;;;22.9714;-12.1308;180;Bottom;U1
+14;;;79.0981;-35.4988;90;Bottom;DHT2
+15;;;26.892;-10.3721;0;Bottom;TXT3
+16;;;82.1672;-21.7829;0;Bottom;Via24
+17;;;20.5119;-3.08573;0;Bottom;TXT3
+18;;THT;28.0653;-8.06685;-90;Bottom;Pyranometer part1
+19;;rj11-6;38.3523;-43.8173;180;Bottom;J4
+20;;;69.4673;-4.76485;0;Bottom;Via29
+21;;;38.139;-10.3184;0;Bottom;TXT4
+22;;;29.4238;-10.2315;0;Bottom;TXT3
+23;5.6k;1206 [SMD];58.5192;-12.8928;180;Bottom;5.6kΩ
+24;;;37.7838;-32.6766;0;Bottom;TXT3
+25;100nF;1206 [SMD, multilayer];49.6814;-41.3408;180;Top;100nF
+26;;;51.6872;-22.0369;0;Bottom;Via25
+27;;;48.1312;-29.9108;0;Bottom;Via20
+28;2.2k;1206 [SMD];58.5192;-8.06685;180;Bottom;2.2kΩ
+29;;;79.7272;-14.6591;-90;Bottom;TXT4
+30;;THT;79.6273;-11.3688;90;Bottom;Thermocouple 1
+31;;;11.5553;-40.0709;0;Bottom;Via14
+32;;;99.9472;-5.78086;0;Bottom;Hole1
+33;;;62.6092;-36.0069;0;Bottom;Via11
+34;;;86.4852;-36.0069;0;Bottom;Via13
+35;;;94.2741;-31.7352;-90;Bottom;TXT4
+36;;;24.9896;-45.2582;0;Bottom;TXT3
+37;10k;1206 [SMD];92.6074;-38.5468;180;Top;10kΩ
+38;1k;1206 [SMD];31.9014;-29.9108;180;Top;1kΩ
+39;;;91.5831;-31.1223;-90;Bottom;TXT4
+40;;;66.3987;-35.4988;90;Bottom;DHT3
+41;10k;1206 [SMD];81.4314;-38.5468;180;Top;10kΩ
+42;;;51.1792;-32.4508;0;Bottom;Via10
+43;;;82.2345;-14.6891;-90;Bottom;TXT4
+44;;;90.2741;-35.4988;90;Bottom;DHT1
+45;;;86.555;-31.4288;-90;Bottom;TXT4
+46;;;33.3992;-23.8149;0;Bottom;Via21
+47;;THT;13.1783;-38.5468;-90;Bottom;J5
+48;;;6.47527;-4.25686;0;Bottom;Hole2
+49;;;16.4647;-42.2391;0;Bottom;TXT3
+50;;;32.3904;-12.5664;0;Bottom;TXT3
+51;;;19.9373;-31.9428;0;Bottom;Via15
+52;;;74.468;-14.919;-90;Bottom;TXT4
+53;;;84.7942;-14.8145;-90;Bottom;TXT4
+54;;;77.1934;-14.77;-90;Bottom;TXT4
+55;;;74.5473;-6.54285;0;Bottom;Via28
+56;;;72.0073;-4.76485;0;Bottom;Via27
+57;;;75.3092;-36.0069;0;Bottom;Via12
+58;10k;1206 [SMD];49.6814;-37.7848;180;Top;10kΩ
+59;;;10.4216;-42.1266;0;Bottom;TXT3
+60;;;24.5657;-41.9429;0;Bottom;TXT3
+61;;;66.4193;-4.76485;0;Bottom;Via30
+62;10k;1206 [SMD];57.3014;-38.5468;180;Top;10kΩ
